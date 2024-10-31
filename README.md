@@ -3,11 +3,12 @@
 Repositório para guardar as versões feitas no ambiente collab e explicação sobre o projeto de iniciação científica na universidade.
 
 ## Sumário:
-1. Introdução:
-2. Notações
-3. Objetivos e Metodologia
-4. Explicação dos Resultados:
-5. Referências
+1. Introdução.
+2. Notações.
+3. Objetivos.
+4. Metodologia
+5. Explicação dos Resultados.
+6. Referências.
   
 ## Introdução:
   <p>O mercado financeiro é um espaço que se refere a um conjunto de instituições, instrumentos e atividades que permite a compra e venda de ativos financeiros como ações, títulos, moedas e commodities [1]. Ele desempenha um papel fundamental na economia global permitindo que empresas, governos e indivíduos levantem capitais, gerenciem riscos e alcancem seus objetivos financeiros [2]. Vale ressaltar que esse ativo não é de renda fixa, mas de renda variável, isto porque há uma volatividade em seus preços fazendo com que o ganho e a perda obtidos sejam maiores, é por causa disso que o perfil dos compradores é arrojado para lidar com essas variações e obter rentabilidades mais seguras [8,9]. Um dos pontos para torna-los atraentes para os investidores é a mudança da taxa SELIC. A diminuição dessa taxa faz com que a operação na bolsa de valores seja mais atraente, visto que o crédito fica mais barato e ativos de renda fixa perdem preferência diante das ações da bolsa de valores [3]. Um dos ativos citados que é muito conhecido são as ações, elas são partes de uma empresa que decidiu se abrir para o mercado, dando oportunidade a terceiros virarem sócios dela e, quando são adquiridas, tornam-se acionistas, onde essas operações devem ser efetuadas pelas instituições registradas pela CVM (Conselho de Valores Mobiliários) [4,8]. A obtenção de ações pode ser feitas através das bolsas de valores, podendo ser usada corretoras pra isso, e o preço delas varia conforme o momento da empresa, flutuação do mercado e fatores externos. Ademais, existem dois tipos de ações que são as ordinárias e as preferenciais [4].</p>
@@ -18,7 +19,10 @@ Repositório para guardar as versões feitas no ambiente collab e explicação s
 
 ## Notações:
 
-## Objetivos e Metodologiaa
+## Objetivos 
+ O objetivo deste projeto é usar métodos de séries temporais, modelos de ML, para realizar a predição de preço das ações utilizando datasets com preços de compra e venda desses ativos e realizar uma análise comparativa verificando quais foram os melhores parâmetros e identificar qual modelo se saiu melhor para cada cenário.
+ 
+## Metodologia
 
 ## Resultados:
 <li>Resultado 1:</li>
